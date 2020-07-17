@@ -6,11 +6,11 @@
 
 ## Initialize project
 
-Run the command to install dependencies for both end
+Run the command to install dependencies
 
-> npm run init-project
+> npm install or yarn install
 
 Run It
 Run it locally
 
-> npm start
+> npm start or yarn start
