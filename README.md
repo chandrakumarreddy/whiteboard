@@ -2,7 +2,7 @@
 
 ## App Preview
 
-![whitbaord preview](https://github.com/chandrakumarreddy/whiteboard/preview.png)
+![whitbaord preview](https://github.com/chandrakumarreddy/whiteboard/blob/master/preview.png)
 
 ## Initialize project
 
